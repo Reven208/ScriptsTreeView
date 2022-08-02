@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptTreeViewIcon", "ScriptTreeViewIcon\ScriptTreeViewIcon.csproj", "{8CAB18BC-2A22-4BC5-9B7D-92B2594CC060}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CAB18BC-2A22-4BC5-9B7D-92B2594CC060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CAB18BC-2A22-4BC5-9B7D-92B2594CC060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CAB18BC-2A22-4BC5-9B7D-92B2594CC060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CAB18BC-2A22-4BC5-9B7D-92B2594CC060}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D2D96A0-1BCD-4F20-87A7-4DFD99EE826F}
+	EndGlobalSection
+EndGlobal

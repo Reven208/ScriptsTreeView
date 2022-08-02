@@ -1,0 +1,15 @@
+C:\Users\Reven\Desktop\Github Repos\WPF\ScriptTreeViewIcon\ScriptTreeViewIcon\bin\Debug\ScriptTreeViewIcon.exe.config
+C:\Users\Reven\Desktop\Github Repos\WPF\ScriptTreeViewIcon\ScriptTreeViewIcon\bin\Debug\ScriptTreeViewIcon.exe
+C:\Users\Reven\Desktop\Github Repos\WPF\ScriptTreeViewIcon\ScriptTreeViewIcon\bin\Debug\ScriptTreeViewIcon.pdb
+C:\Users\Reven\Desktop\Github Repos\WPF\ScriptTreeViewIcon\ScriptTreeViewIcon\obj\Debug\ScriptTreeViewIcon.csproj.AssemblyReference.cache
+C:\Users\Reven\Desktop\Github Repos\WPF\ScriptTreeViewIcon\ScriptTreeViewIcon\obj\Debug\MainWindow.g.cs
+C:\Users\Reven\Desktop\Github Repos\WPF\ScriptTreeViewIcon\ScriptTreeViewIcon\obj\Debug\App.g.cs
+C:\Users\Reven\Desktop\Github Repos\WPF\ScriptTreeViewIcon\ScriptTreeViewIcon\obj\Debug\ScriptTreeViewIcon_MarkupCompile.cache
+C:\Users\Reven\Desktop\Github Repos\WPF\ScriptTreeViewIcon\ScriptTreeViewIcon\obj\Debug\ScriptTreeViewIcon_MarkupCompile.lref
+C:\Users\Reven\Desktop\Github Repos\WPF\ScriptTreeViewIcon\ScriptTreeViewIcon\obj\Debug\MainWindow.baml
+C:\Users\Reven\Desktop\Github Repos\WPF\ScriptTreeViewIcon\ScriptTreeViewIcon\obj\Debug\ScriptTreeViewIcon.g.resources
+C:\Users\Reven\Desktop\Github Repos\WPF\ScriptTreeViewIcon\ScriptTreeViewIcon\obj\Debug\ScriptTreeViewIcon.Properties.Resources.resources
+C:\Users\Reven\Desktop\Github Repos\WPF\ScriptTreeViewIcon\ScriptTreeViewIcon\obj\Debug\ScriptTreeViewIcon.csproj.GenerateResource.cache
+C:\Users\Reven\Desktop\Github Repos\WPF\ScriptTreeViewIcon\ScriptTreeViewIcon\obj\Debug\ScriptTreeViewIcon.csproj.CoreCompileInputs.cache
+C:\Users\Reven\Desktop\Github Repos\WPF\ScriptTreeViewIcon\ScriptTreeViewIcon\obj\Debug\ScriptTreeViewIcon.exe
+C:\Users\Reven\Desktop\Github Repos\WPF\ScriptTreeViewIcon\ScriptTreeViewIcon\obj\Debug\ScriptTreeViewIcon.pdb
