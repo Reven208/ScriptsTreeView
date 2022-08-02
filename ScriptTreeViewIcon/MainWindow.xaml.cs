@@ -98,9 +98,9 @@ namespace ScriptTreeViewIcon
                 if (str.EndsWith(".txt") || str.EndsWith(".lua") && !selectedItem.ToolTip.ToString().EndsWith("Folder.png"))
                 {
                     StreamReader streamReader = new StreamReader(selectedItem.Tag.ToString());
-                    //Code for Get Text From Script ->   streamReader.ReadToEnd(), "Script"
+                    //Code for Get Text From Script ->   streamReader.ReadToEnd()
                     //example with messagebox
-                    MessageBox.Show(streamReader.ReadToEnd(), "Script");
+                    MessageBox.Show(streamReader.ReadToEnd());
                 }
 
             }
